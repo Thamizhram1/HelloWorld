@@ -6,6 +6,7 @@ public class HelloWord {
 		System.out.println("Hello World");
 		System.out.println("For Pull Test");
 		System.out.println("Retest after tried all possible ways");
+		System.out.println("Checking, pull job. Should work as we expecting");
 
 	}
 
