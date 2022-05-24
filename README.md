@@ -9,6 +9,7 @@ public class HelloWord {
 		System.out.println("Checking, pull job. Should work as we expecting");
 		System.out.println("2nd Day, Initial Pull check");
 		System.out.println("2nd Day, Initial Pull check");
+		System.out.println("2nd Day, Initial Pull check");
 
 	}
 
